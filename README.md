@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 😄 I’m Junior Programming
 - 👨‍💻 I am a student at the State Islamic University of Sunan Gunung Djati, majoring in Informatics Engineering.
-- 🌱 I’m currently learning [**JavaSripct**] 
+- 🌱 I’m currently learning **JavaSripct**
 
 
 ![Faiz Super](img/one-piece-gif-19.gif)
