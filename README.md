@@ -1,4 +1,4 @@
-## Hello World I'm Faiz M 👋
+## Hello World I'm FaizZz 👋
 
 <!--
 **Faiz-super/Faiz-super** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 I’m Junior Programming
-- 🌱 I’m currently learning JavaSripct
+😄 I’m Junior Programming
+👨‍💻 I am a student at the State Islamic University of Sunan Gunung Djati, majoring in Informatics Engineering.
+🌱 I’m currently learning JavaSripct
 
 
 ![Faiz Super](img/one-piece-gif-19.gif)
