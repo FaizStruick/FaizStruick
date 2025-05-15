@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![Faiz Super](img/one-piece-gif-19.gif)
 
 
-##### My Github Stats
+#### My Github Stats
 
 ![FaizZz GitHub stats](https://github-readme-stats.vercel.app/api?username=FaizZz&show_icons=true&theme=dark#gh-dark-mode-only)
 
@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 ### Play With Me
 
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
