@@ -19,27 +19,28 @@ Here are some ideas to get you started:
 - 👨‍💻 I am a student at the State Islamic University of Sunan Gunung Djati, majoring in Informatics Engineering.
 - 🌱 I’m currently learning **JavaScript**
 
+****
+
 ##### Skills
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
+****
 
 ##### Connect With Me
 
 ![https://instagram.com/faizmhmmad](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://id.linkedin.com/in/faiz-muhammad-ilham-066a66321](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
 
+****
+
 ![Faiz Super](img/one-piece-gif-19.gif)
 
 
-#### My Github Stats
-
-![FaizZz GitHub stats](https://github-readme-stats.vercel.app/api?username=FaizZz&show_icons=true&theme=dark#gh-dark-mode-only)
-
-
-
+***
 ### Play With Me
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/FaizZz/FaizZz/output/snake.svg" alt="Snake animation" />
 
 ###
