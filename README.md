@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 👨‍💻 I am a student at the State Islamic University of Sunan Gunung Djati, majoring in Informatics Engineering.
 - 🌱 I’m currently learning **JavaScript**
 
-****
 
 ##### Skills
 
@@ -31,13 +30,20 @@ Here are some ideas to get you started:
 
 ![https://instagram.com/faizmhmmad](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://id.linkedin.com/in/faiz-muhammad-ilham-066a66321](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
 
-****
 
 ![Faiz Super](img/one-piece-gif-19.gif)
 
 
 ***
 ### Play With Me
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaizZz/FaizZz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaizZz/FaizZz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FaizZz/FaizZz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <br clear="both">
 
