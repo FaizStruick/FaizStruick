@@ -35,3 +35,7 @@ Here are some ideas to get you started:
 
 
 ***
+
+### 📊 Stats
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaizStruick&show_icons=true&theme=gruvbox)
+
