@@ -46,5 +46,5 @@ Here are some ideas to get you started:
 <!-- Snake Animation -->
 <div align="center">
     
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/FaizStruick/FaizStruick/blob/output/github-snake-dark.svg)
 </div>
