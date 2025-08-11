@@ -43,4 +43,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizStruick&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
