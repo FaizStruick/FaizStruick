@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 - 👨‍💻 I am a student at the State Islamic University of Sunan Gunung Djati, majoring in Informatics Engineering.
 - 🌱 I’m currently learning **JavaScript**
 
+---
 
-##### Skills
+### 🎨 Skills
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /> <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> <br/>
 
-****
+---
+### 🤖 Connect With Me
 
-
-##### Connect With Me
 
 ![https://instagram.com/faizmhmmad](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://id.linkedin.com/in/faiz-muhammad-ilham-066a66321](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
 
@@ -37,10 +37,8 @@ Here are some ideas to get you started:
 
 ***
 
-#### 📊 Stats
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaizStruick&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizStruick&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 Stats
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaizStruick&show_icons=true&theme=tokyonight)                     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizStruick&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!-- Snake Animation -->
